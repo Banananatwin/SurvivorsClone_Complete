@@ -3,4 +3,5 @@
 /android/
 .godot/**
 .godot/*
+.godot/*/*
 .godot/editor/filesystem_update*
